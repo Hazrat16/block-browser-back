@@ -1,3 +1,7 @@
+## block-browser-back
+
+A simple React hook to block users from navigating back using the browser's back button.
+
 ## Installation
 
 Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
