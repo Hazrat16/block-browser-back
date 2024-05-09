@@ -1,0 +1,21 @@
+{
+  "name": "block-browser-back",
+  "version": "1.0.0",
+  "description": "This in a NPM to block browser back button",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "npm",
+    "browser-back"
+  ],
+  "author": "Hazrat Ali",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
